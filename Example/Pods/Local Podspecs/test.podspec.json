@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "summary": "A short description of test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/deer-hope/test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "deer-hope": "deer_hope@live.cn"
+  },
+  "source": {
+    "git": "https://github.com/deer-hope/test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "test/Classes/**/*"
+}
